@@ -1,5 +1,5 @@
 1. Set up the project repository and folder structure for frontend (React + TypeScript), backend (Firebase Cloud Functions), contracts, and documentation. (completed)
-2. Initialize version control with Git and create a .gitignore file.
+2. Initialize version control with Git and create a .gitignore file. (completed)
 3. Set up Firebase project and configure Firestore database.
 4. Scaffold the React frontend app and install necessary dependencies (React, TypeScript, CSS Modules, etc.).
 5. Scaffold the Firebase Cloud Functions backend and install dependencies.
